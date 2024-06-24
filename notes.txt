@@ -6,3 +6,6 @@ status used to check changes made.
 
 
 To Convert local repo in our machine to Git repo we must use "git init" command to convert it.
+To make a connection between newly created local repo to remote sever use the following command
+
+"git remote add origin https://github.com/someone/demo.git"
