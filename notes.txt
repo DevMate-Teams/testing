@@ -9,3 +9,12 @@ To Convert local repo in our machine to Git repo we must use "git init" command 
 To make a connection between newly created local repo to remote sever use the following command
 
 "git remote add origin https://github.com/someone/demo.git"
+
+
+additional commands for eg:
+git branch show the current working Branch.
+git  checkout -b feature-readme-instruction1 
+git diff feature-readme-instruction1. 
+
+(checkout used to switch between branches,
+-b used to create new branch)
