@@ -1,0 +1,5 @@
+Clone command used to bring repository that is hosted somewhere like Github into local machine.
+Add command track your file and changes in GIT.
+Commit command is used to save your changes to the local repository. 
+Push Command used to upload files in Remote server.
+status used to check changes made.
