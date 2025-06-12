@@ -26,3 +26,5 @@ Changing NewLine from adithyabalan2 accsssss follow
 Hello Django!! Main
 
 Hello! Spring Boot!
+
+Does only admin can approve PR?
